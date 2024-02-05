@@ -1,0 +1,12 @@
+[submodule "Prompt-Engineering-Guide"]
+	path = Prompt-Engineering-Guide
+	url = https://github.com/dair-ai/Prompt-Engineering-Guide.git
+[submodule "Instructgpt-prompts"]
+	path = Instructgpt-prompts
+	url = https://github.com/sm-da/Instructgpt-prompts.git
+[submodule "ChatGPT_Custom_Instructions"]
+	path = ChatGPT_Custom_Instructions
+	url = https://github.com/sm-da/ChatGPT_Custom_Instructions.git
+[submodule "ChatGPT-AutoExpert"]
+	path = ChatGPT-AutoExpert
+	url = https://github.com/spdustin/ChatGPT-AutoExpert.git
