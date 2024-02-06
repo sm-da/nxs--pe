@@ -1,0 +1,8 @@
+{
+  "name": "nxs--pe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sm-da/nxs--pe.git",
+  "author": "supermario.ai <supermario@smda.dev>",
+  "license": "MIT"
+}
