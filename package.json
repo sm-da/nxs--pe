@@ -2,7 +2,20 @@
   "name": "nxs--pe",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/sm-da/nxs--pe.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm-da/nxs--pe.git"
+  },
   "author": "supermario.ai <supermario@smda.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Prompt Engineering Nexus",
+  "bugs": {
+    "url": "https://github.com/sm-da/nxs--pe/issues"
+  },
+  "homepage": "https://github.com/sm-da/nxs--pe#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }
